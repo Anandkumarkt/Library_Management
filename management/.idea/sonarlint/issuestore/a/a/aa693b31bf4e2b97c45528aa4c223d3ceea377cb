@@ -1,0 +1,18 @@
+
+K
+java:S1874("0Remove this use of "signWith"; it is deprecated.(õ‘·ùşÿÿÿÿ
+D
+java:S1874.".Remove this use of "parser"; it is deprecated.(¤‹ıà
+K
+java:S1874/"5Remove this use of "setSigningKey"; it is deprecated.(È©‘”
+D
+java:S18748".Remove this use of "parser"; it is deprecated.(âÉ¥Ô
+K
+java:S18748"5Remove this use of "setSigningKey"; it is deprecated.(âÉ¥Ô
+D
+java:S1874A".Remove this use of "parser"; it is deprecated.(¤‹ıà
+K
+java:S1874B"5Remove this use of "setSigningKey"; it is deprecated.(È©‘”
+9
+java:S2119P"Save and re-use this "Random".(¥íŠÖıÿÿÿÿ
+E	java:S106T"+Replace this use of System.out by a logger.(ïè–üÿÿÿÿ
